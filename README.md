@@ -97,8 +97,9 @@ python run.py --exchange aster --market-type perp --symbol SOLUSDT --spread 0.02
 ```
 
 ## 第四步：查看网页前端是否运行正常。
-如果正常就是频繁挂单撤单，偶尔成交。
+👉 正常表现：频繁挂单与撤单，偶尔成交。
 
+⚠️ **遇到任何问题！先问 AI；搞不定再末尾扫码进群丢截图！！**
 
 ### 命令行参数
 
@@ -152,8 +153,10 @@ python run.py --exchange aster --market-type perp --symbol SOLUSDT --spread 0.02
 ## 注意事项
 
 ### 一般注意事项
-- 交易涉及风险，请谨慎使用
-- 建议先在小资金上测试策略效果
-- 定期检查交易统计以评估策略表现
+⚠️ 交易有风险，请谨慎使用
+
+✅ 建议先用小资金测试策略效果
+
+📊 定期检查日志与统计，评估策略表现
 
 <img src="fbd88aef3c0f049e8d3b57238e7565eb.jpg" alt="说明文字" width="300">
